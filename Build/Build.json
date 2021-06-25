@@ -1,6 +1,6 @@
 {
-"companyName": "HpyerTheory",
-"productName": "Alcohol Trivia",
+"companyName": "DefaultCompany",
+"productName": "Perfect Pour",
 "productVersion": "0.1",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
